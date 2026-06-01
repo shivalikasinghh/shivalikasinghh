@@ -1,6 +1,6 @@
 # Hi there, I'm Shivalika Singh 👋
 
-<AI Solutions Developer Intern @ YASH Technologies>
+### AI Solutions Developer Intern @ YASH Technologies
 
 Final-year engineering student passionate about building scalable web applications and exploring Artificial Intelligence & Machine Learning.
 
